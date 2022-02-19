@@ -1,2 +1,2 @@
-# amount-spinner
+# tailwindcss
 Created with CodeSandbox
